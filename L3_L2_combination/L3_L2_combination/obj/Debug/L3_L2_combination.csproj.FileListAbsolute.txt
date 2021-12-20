@@ -1,0 +1,13 @@
+C:\Users\bogda\source\repos\L3_L2_combination\L3_L2_combination\bin\Debug\L3_L2_combination.exe.config
+C:\Users\bogda\source\repos\L3_L2_combination\L3_L2_combination\bin\Debug\L3_L2_combination.exe
+C:\Users\bogda\source\repos\L3_L2_combination\L3_L2_combination\bin\Debug\L3_L2_combination.pdb
+C:\Users\bogda\source\repos\L3_L2_combination\L3_L2_combination\obj\Debug\L3_L2_combination.csprojAssemblyReference.cache
+C:\Users\bogda\source\repos\L3_L2_combination\L3_L2_combination\obj\Debug\L3_L2_combination.EchipaForm.resources
+C:\Users\bogda\source\repos\L3_L2_combination\L3_L2_combination\obj\Debug\L3_L2_combination.Form1.resources
+C:\Users\bogda\source\repos\L3_L2_combination\L3_L2_combination\obj\Debug\L3_L2_combination.Properties.Resources.resources
+C:\Users\bogda\source\repos\L3_L2_combination\L3_L2_combination\obj\Debug\L3_L2_combination.csproj.GenerateResource.cache
+C:\Users\bogda\source\repos\L3_L2_combination\L3_L2_combination\obj\Debug\L3_L2_combination.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\L3_L2_combination\L3_L2_combination\obj\Debug\L3_L2_combination.exe
+C:\Users\bogda\source\repos\L3_L2_combination\L3_L2_combination\obj\Debug\L3_L2_combination.pdb
+C:\Users\bogda\source\repos\L3_L2_combination\L3_L2_combination\obj\Debug\L3_L2_combination.JucatorForm.resources
+C:\Users\bogda\source\repos\L3_L2_combination\L3_L2_combination\obj\Debug\L3_L2_combination.LoginForm.resources

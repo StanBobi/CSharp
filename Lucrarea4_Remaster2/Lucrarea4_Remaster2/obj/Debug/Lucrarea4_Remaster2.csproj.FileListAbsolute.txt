@@ -1,0 +1,12 @@
+C:\Users\bogda\source\repos\Lucrarea4_Remaster2\Lucrarea4_Remaster2\bin\Debug\Lucrarea4_Remaster2.exe.config
+C:\Users\bogda\source\repos\Lucrarea4_Remaster2\Lucrarea4_Remaster2\bin\Debug\Lucrarea4_Remaster2.exe
+C:\Users\bogda\source\repos\Lucrarea4_Remaster2\Lucrarea4_Remaster2\bin\Debug\Lucrarea4_Remaster2.pdb
+C:\Users\bogda\source\repos\Lucrarea4_Remaster2\Lucrarea4_Remaster2\obj\Debug\Lucrarea4_Remaster2.csprojAssemblyReference.cache
+C:\Users\bogda\source\repos\Lucrarea4_Remaster2\Lucrarea4_Remaster2\obj\Debug\Lucrarea4_Remaster2.Form1.resources
+C:\Users\bogda\source\repos\Lucrarea4_Remaster2\Lucrarea4_Remaster2\obj\Debug\Lucrarea4_Remaster2.Properties.Resources.resources
+C:\Users\bogda\source\repos\Lucrarea4_Remaster2\Lucrarea4_Remaster2\obj\Debug\Lucrarea4_Remaster2.csproj.GenerateResource.cache
+C:\Users\bogda\source\repos\Lucrarea4_Remaster2\Lucrarea4_Remaster2\obj\Debug\Lucrarea4_Remaster2.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\Lucrarea4_Remaster2\Lucrarea4_Remaster2\obj\Debug\Lucrarea4_Remaster2.exe
+C:\Users\bogda\source\repos\Lucrarea4_Remaster2\Lucrarea4_Remaster2\obj\Debug\Lucrarea4_Remaster2.pdb
+C:\Users\bogda\source\repos\Lucrarea4_Remaster2\Lucrarea4_Remaster2\obj\Debug\Lucrarea4_Remaster2.FormRadiografii.resources
+C:\Users\bogda\source\repos\Lucrarea4_Remaster2\Lucrarea4_Remaster2\obj\Debug\Lucrarea4_Remaster2.LoginForm.resources
