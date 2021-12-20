@@ -1,0 +1,10 @@
+C:\Users\bogda\source\repos\Laboratul1_remaster'\Laboratul1_remaster'\bin\Debug\Laboratul1_remaster'.exe.config
+C:\Users\bogda\source\repos\Laboratul1_remaster'\Laboratul1_remaster'\bin\Debug\Laboratul1_remaster'.exe
+C:\Users\bogda\source\repos\Laboratul1_remaster'\Laboratul1_remaster'\bin\Debug\Laboratul1_remaster'.pdb
+C:\Users\bogda\source\repos\Laboratul1_remaster'\Laboratul1_remaster'\obj\Debug\Laboratul1_remaster'.csprojAssemblyReference.cache
+C:\Users\bogda\source\repos\Laboratul1_remaster'\Laboratul1_remaster'\obj\Debug\Laboratul1_remaster_.Form1.resources
+C:\Users\bogda\source\repos\Laboratul1_remaster'\Laboratul1_remaster'\obj\Debug\Laboratul1_remaster_.Properties.Resources.resources
+C:\Users\bogda\source\repos\Laboratul1_remaster'\Laboratul1_remaster'\obj\Debug\Laboratul1_remaster'.csproj.GenerateResource.cache
+C:\Users\bogda\source\repos\Laboratul1_remaster'\Laboratul1_remaster'\obj\Debug\Laboratul1_remaster'.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\Laboratul1_remaster'\Laboratul1_remaster'\obj\Debug\Laboratul1_remaster'.exe
+C:\Users\bogda\source\repos\Laboratul1_remaster'\Laboratul1_remaster'\obj\Debug\Laboratul1_remaster'.pdb
